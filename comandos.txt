@@ -1,0 +1,24 @@
+para crear un nuevo proyecto:
+
+cargo nuevo_proyecto
+
+
+donde programo? 
+dentro de la carpeta src de nuevo_proyecto
+
+
+como crear ejecutable?
+
+cargo build
+
+
+
+como saber si el programa compila?
+
+cargo check
+
+
+compilar +ejecutable + correr programa
+
+cargo run
+
